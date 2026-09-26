@@ -1,0 +1,10 @@
+{
+  "Name": "ConfigurableLuck Chinese Localization：可配置的运气 汉化补丁",
+  "Author": "DelayDazzle",
+  "Version": "1.0.0",
+  "Description": "ConfigurableLuck 的独立汉化补丁。",
+  "UniqueID": "DelayDazzle.ConfigurableLuckChinese",
+  "EntryDll": "ConfigurableLuckChinese.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
